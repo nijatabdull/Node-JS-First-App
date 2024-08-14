@@ -1,0 +1,24 @@
+{
+  "name": "first-time",
+  "version": "1.0.0",
+  "description": "This is first time for me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test_repo"
+  },
+  "keywords": [
+    "test_key"
+  ],
+  "author": "Nicat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "lodash": "^4.17.21"
+  }
+}
